@@ -1,0 +1,27 @@
+{
+  "name": "jsTimezoneDetect",
+  "description": "This script gives you the zone info key representing your device's time zone setting. The return value is an IANA zone info key (aka the Olson time zone database).",
+  "homepage": "http://pellepim.bitbucket.org/jstz/",
+  "main": ".jstz.js",
+  "version": "1.0.5",
+  "keywords": [
+    "time",
+    "timezone",
+    "tz",
+    "date"
+  ],
+  "authors": [
+    { "name": "Jon Nylander", "homepage": "http://blog.pageloom.com/" },
+    { "name": "Josh Fraser", "email": "joshfraz@gmail.com", "homepage": "http://onlineaspect.com/" }
+  ],
+  "license": "LICENCE.txt",
+  "ignore": [
+    "test",
+    ".hgignore",
+    ".hgtags"
+  ],
+  "repository": {
+    "type": "hg",
+    "url": "https://bitbucket.org/pellepim/jstimezonedetect"
+  }
+}
