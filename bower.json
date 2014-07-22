@@ -18,7 +18,8 @@
   "ignore": [
     "test",
     ".hgignore",
-    ".hgtags"
+    ".hgtags",
+    "grunt.js"
   ],
   "repository": {
     "type": "hg",
